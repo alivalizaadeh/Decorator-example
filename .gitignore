@@ -8,6 +8,7 @@ out/
 .classpath
 .factorypath
 .project
+.idea
 .settings
 .springBeans
 .sts4-cache
